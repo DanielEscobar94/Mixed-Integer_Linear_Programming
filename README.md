@@ -5,4 +5,4 @@ In this repository you will find the following:
 
 * PDF file with the proposed problems.
 * Three R scripts with IpSolve models, one for each problem.
-* PDF file of the final report with the models built and the solutions found.
+* PDF file of the final report with the mathematical models built and the solutions found.
