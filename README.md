@@ -4,5 +4,5 @@ This repository contains a project on **Mixed-Integer Linear Programming**, carr
 In this repository you will find the following:
 
 * PDF file with the proposed problems.
-* R script with IpSolve models
+* Three R scripts with IpSolve models, one for each problem.
 * PDF file of the final report with the models built and the solutions found.
